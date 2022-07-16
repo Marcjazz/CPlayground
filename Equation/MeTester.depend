@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581891214 source:d:\projetc\metester\main.c
+	<stdio.h>
+	<stdlib.h>
+

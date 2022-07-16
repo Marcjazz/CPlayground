@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1610009709 source:e:\projetc\matricec++\main.cpp
+	<string>
+	<iostream>
+	"Etudiant.h"
+
+1609937182 e:\projetc\matricec++\src\etudiant.cpp
+	"Etudiant.h"
+	<string>
+	<iostream>
+
+1610010083 e:\projetc\matricec++\include\etudiant.h
+	<string>
+
+1610009576 source:e:\projetc\matricec++\src\etudiant.cpp
+	"Etudiant.h"
+	<string>
+	<iostream>
+

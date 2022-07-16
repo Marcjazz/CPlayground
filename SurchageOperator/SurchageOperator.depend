@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1610097660 source:e:\projetc\surchageoperator\main.cpp
+	<iostream>
+	"Point.h"
+
+1610112456 source:e:\projetc\surchageoperator\src\point.cpp
+	"Point.h"
+	<iostream>
+
+1610096766 e:\projetc\surchageoperator\include\point.h
+	<iostream>
+

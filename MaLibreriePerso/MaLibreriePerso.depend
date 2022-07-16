@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1589229648 source:e:\projetc\malibrerieperso\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lire.h"
+
+1589230051 e:\projetc\malibrerieperso\lire.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

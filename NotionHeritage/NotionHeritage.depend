@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1610026591 source:e:\projetc\notionheritage\src\humaine.cpp
+	<iostream>
+	"Humaine.h"
+	<iostream>
+
+1610026606 e:\projetc\notionheritage\include\humaine.h
+	<string>
+
+1610026551 source:e:\projetc\notionheritage\main.cpp
+	<iostream>
+	"Humaine.h"
+	"Femme.h"
+	<string.h>
+
+1610024916 source:e:\projetc\notionheritage\src\femme.cpp
+	"Femme.h"
+	<iostream>
+
+1610024148 e:\projetc\notionheritage\include\femme.h
+	"Humaine.h"
+	<string>
+
